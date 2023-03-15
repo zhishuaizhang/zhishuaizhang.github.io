@@ -9,8 +9,8 @@ M.S., Petroleum Engineering, Texas A&M University
 B.S., Physics, Nankai University
 
 <ul>
-<li><a href="https://github.com/{{ site.github_username}}">GitHub</a></li>
-<li><a href="https://www.linkedin.com/in/{{ site.github_username}}">LinkedIn</a></li>
+<li><a href="https://github.com/zhishuaizhang/">GitHub</a></li>
+<li><a href="https://www.linkedin.com/in/zhishuaizhang/">LinkedIn</a></li>
 <li><a href="https://scholar.google.com/citations?user=HsUKV5YAAAAJ&hl=en&oi=ao">Google Scholar</a></li>
 </ul>
 
