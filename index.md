@@ -4,13 +4,15 @@ I am currently a research geophysicist at Chevron Technical Center.
 I live in Houston, TX
 
 # Education
-# PhD, Geophysics, UC Berkeley
-# M.S., Petroleum Engineering, Texas A&M University
-### B.S., Physics, Nankai University
+PhD, Geophysics, UC Berkeley
+M.S., Petroleum Engineering, Texas A&M University
+B.S., Physics, Nankai University
 
-LinkedIn: https://www.linkedin.com/in/zhishuaizhang/
-
-Google scholar: https://scholar.google.com/citations?user=HsUKV5YAAAAJ&hl=en&oi=ao
+<ul>
+<li><a href="https://github.com/{{ site.github_username}}">GitHub</a></li>
+<li><a href="https://www.linkedin.com/in/{{ site.github_username}}">LinkedIn</a></li>
+<li><a href="https://scholar.google.com/citations?user=HsUKV5YAAAAJ&hl=en&oi=ao">Google Scholar</a></li>
+</ul>
 
 # Working history
 Chevron, Houston, TX
