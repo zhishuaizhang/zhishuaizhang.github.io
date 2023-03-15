@@ -11,3 +11,10 @@ I live in Houston, TX
 LinkedIn: https://www.linkedin.com/in/zhishuaizhang/
 
 Google scholar: https://scholar.google.com/citations?user=HsUKV5YAAAAJ&hl=en&oi=ao
+
+## Working history
+Chevron, Houston, TX
+Research Geophysicist, February 2019 - Present
+
+Stanford University, Stanford, CA
+Postdoctoral Research Fellow in Geophysics, June 2017 - February 2019​
