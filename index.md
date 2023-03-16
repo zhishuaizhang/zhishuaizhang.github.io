@@ -33,7 +33,7 @@ Intern in Geophysics, May 2016 - October 2016\
 Mentor: Jing Du
 
 Stanford University, Stanford, CA\
-Exchange Student in Geophysics, January 2015 - March 2016​\
+Exchange Student in Geophysics, January 2015 - March 2016
 
 Chevron, Houston, TX\
 Intern in Geophysics, June 2015 - August 2015\
