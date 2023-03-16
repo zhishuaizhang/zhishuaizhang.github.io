@@ -43,6 +43,22 @@ Lawrence Livermore National Laboratory, Livermore, CA\
 Intern in Geophysics, May 2014 - August 2014\
 Mentor: Dennise Templeton
 
+ConocoPhillips, Houston, TX\
+Intern in Geophysics, May 2013 - August 2013\
+Mentor: Ali Tura (Geophysics) & Hari Sudan (Reservoir Engineering) 
+Manager: Arcangelo Sena
+
+Texas A&M University, College Station, TX\
+Master Student in Petroleum Engineering, August 2010 - August 2012\
+Advisor: Behnam Jafarpour, Co-Advisor: Akhil Datta-Gupta
+
+Nankai University, Tianjin, China\
+Student Research Assistant in Physics, September 2006 - June 2010\
+Advisor: Feng Song & Liqin Tang
+
+Changchun Institute of Optics, Fine Mechanics and Physics, Chinese Academy of Sciences, Changchun, China\
+Intern in Physics, June 2008 - July 2008\
+Mentor: Yang Xiang
 
 # Get in Touch
 <ul>
