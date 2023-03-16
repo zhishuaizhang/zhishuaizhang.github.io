@@ -1,2 +1,2 @@
-modified readme
+modified readme\
 test merge
