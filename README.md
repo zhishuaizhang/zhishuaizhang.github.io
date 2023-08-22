@@ -1,2 +1,3 @@
 modified readme\
-test merge
+test merge\
+test push
